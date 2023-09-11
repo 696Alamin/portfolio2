@@ -1,0 +1,12 @@
+body{padding-top: 15%;
+   padding-left: 2%;
+   background-image:url(alamin1.jpg);
+   background-size: 50dvh;
+   background-size: 100dvw;
+   background-repeat: no-repeat;
+}
+h1{font-family: 'Courier New', Courier, monospace;
+font-size: 4cap;}
+h3{color: rgb(102, 10, 56);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+button{background-color: black;color: aliceblue;width: 10%;height: 30px;border-radius: 50cap;}

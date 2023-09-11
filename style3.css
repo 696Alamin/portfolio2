@@ -1,0 +1,9 @@
+body{background-color: aqua;}
+h1{background-color:black;
+   color: aliceblue;
+    padding:2%;
+    width: 800px;}
+    th{background-color: gold;}
+table,th,td{
+         padding:1cap;
+        text-align: center;}
