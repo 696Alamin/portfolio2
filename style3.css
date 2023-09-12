@@ -1,8 +1,10 @@
-body{background-color: aqua;}
+body{background-image: url(uiu.jpg);
+background-repeat: no-repeat;
+background-size:50%}
 h1{background-color:black;
    color: aliceblue;
     padding:2%;
-    width: 800px;}
+    width: 600px;}
     th{background-color: gold;}
 table,th,td{
          padding:1cap;
